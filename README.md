@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @tech-run
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning AWS
-- 📫 How to reach me on [linkedln](linkedin.com/in/andrew-begbie-834b9230)
+- 📫 How to reach me on [linkedln](https://linkedin.com/in/andrew-begbie-834b9230)
 
 <!---
 tech-run/tech-run is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
